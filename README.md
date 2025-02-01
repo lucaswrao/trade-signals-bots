@@ -22,7 +22,7 @@ A trader might enter a short position when RSI crosses back below 70.
 **How to set up:**
 1. Clone the repo
 2. cd trade-signals-bots
-3. python cryptosignal.py
+3. python cryptosignals.py
 4. ENJOY
 
 ![изображение](https://github.com/user-attachments/assets/6da06970-705e-4cb7-b3b6-292e3874ce2a)
