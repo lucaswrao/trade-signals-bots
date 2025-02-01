@@ -1,13 +1,8 @@
 **CRYPTO BUY AND HOLD SIGNAL BOT**
 
-This is a simple crypto signal bot base on technical analysis, This bot is meant to send a buy signal to telegram
+This is a simple crypto signal bot base on technical analysis, monitoring rsi on BTC, ETH, ADA, BNB, SOL, XRP
 Disclaimer: Before executing the signal provided by this bot make sure to apply your own analysis!
 
-website: https://fluronix.com/
-
-discord: https://discord.gg/sy5XfqK3ZA
-
-Get a vps server to host your bot: http://click.dreamhost.com/aff_c?offer_id=8&aff_id=12694
 
 **How to set up:**
 
