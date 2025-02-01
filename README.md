@@ -12,8 +12,6 @@ Disclaimer: Before executing the signal provided by this bot make sure to apply 
 3. Run pip install -r requirements.txt
 4. On the signal_bot.py they are config variables like on the image
 
-![1690041789129](image/README/1690041789129.png)
-
 Note the parameters are case sensitive.
 
 The FILTER_SYMBOL variable is use to filter only pairs that have the asigned symbol (USDT by default)
