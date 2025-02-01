@@ -1,6 +1,7 @@
 **CRYPTO BUY AND HOLD SIGNAL BOT**
 
 This is a simple crypto signal bot base on technical analysis, monitoring rsi on BTC, ETH, ADA, BNB, SOL, XRP
+
 Disclaimer: Before executing the signal provided by this bot make sure to apply your own analysis!
 
 
