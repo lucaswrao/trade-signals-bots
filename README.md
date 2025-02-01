@@ -5,10 +5,6 @@ This is a simple crypto signal bot base on technical analysis, monitoring rsi on
 
 Disclaimer: Before executing the signal provided by this bot make sure to apply your own analysis!
 
-![изображение](https://github.com/user-attachments/assets/74b26824-cca1-4209-a607-c017e58d28c4)
-
-
-
 30-70 RSI Strategy
 This strategy is based on the assumption that:
 
@@ -24,10 +20,11 @@ Sell Signal (RSI > 70)
 When RSI rises above 70, it suggests the asset is overbought and could be due for a price correction.
 A trader might enter a short position when RSI crosses back below 70.
 **How to set up:**
-
 1. Clone the repo
 2. cd trade-signals-bots
 3. python cryptosignal.py
 4. ENJOY
+
+![изображение](https://github.com/user-attachments/assets/6da06970-705e-4cb7-b3b6-292e3874ce2a)
 
 
