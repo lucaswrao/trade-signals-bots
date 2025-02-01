@@ -1,11 +1,14 @@
-**CRYPTO BUY AND HOLD SIGNAL BOT**
+**RSI SIGNAL BOT**
 
 This is a simple crypto signal bot base on technical analysis, monitoring rsi on BTC, ETH, ADA, BNB, SOL, XRP
 
 
 Disclaimer: Before executing the signal provided by this bot make sure to apply your own analysis!
 
-![изображение](https://github.com/user-attachments/assets/2d813056-7b08-40ee-ae38-4678e989d8de)
+![изображение](https://github.com/user-attachments/assets/74b26824-cca1-4209-a607-c017e58d28c4)
+
+
+
 30-70 RSI Strategy
 This strategy is based on the assumption that:
 
